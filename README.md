@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
