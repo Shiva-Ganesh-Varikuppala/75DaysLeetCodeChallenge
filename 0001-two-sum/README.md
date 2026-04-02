@@ -25,7 +25,7 @@
 <pre>
 <strong>Input:</strong> nums = [3,3], target = 6
 <strong>Output:</strong> [0,1]
-</pre>
+</pre> 
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
