@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [2815-max-pair-sum-in-an-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2815-max-pair-sum-in-an-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
 ## Sorting
 |  |
 | ------- |
