@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
