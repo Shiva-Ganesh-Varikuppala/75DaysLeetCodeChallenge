@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Recursion
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
