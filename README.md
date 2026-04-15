@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
