@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [2815-max-pair-sum-in-an-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
 ## Sorting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Stack
