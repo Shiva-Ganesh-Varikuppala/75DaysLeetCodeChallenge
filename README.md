@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
