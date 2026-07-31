@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2815-max-pair-sum-in-an-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2815-max-pair-sum-in-an-array](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2965-find-missing-and-repeated-values](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [2965-find-missing-and-repeated-values](https://github.com/shiva676466/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
